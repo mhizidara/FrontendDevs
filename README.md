@@ -43,10 +43,4 @@ Users should be able to:
 
 ### Continued development
 
-1. CSS Indepth Learning
-
-
-## Author
-
-- Website - [Add your name here](https://www.nanosoftechsolutions.com)
-- Twitter - [@yourusername](https://www.twitter.com/13*Xquite)
+1. Further CSS Indepth Learning
